@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "4105fe46996be68a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b22c5dca944961a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab09251cee55820d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kotlin Notes/6 String 详解.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e17355feaaf11ff",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e5ed1126f0d21a9e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e444dd36b5545920",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "fab3f5987562ae90",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "522d6e38c93af820",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "24c9daa3168021b3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "860e351df72981ec",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Kotlin Notes/6 String 详解.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0be9acf150b7ac0d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Kotlin Notes/6 String 详解.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bf46e72b976a9f65",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Kotlin Notes/6 String 详解.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "ab09251cee55820d",
+  "lastOpenFiles": []
+}

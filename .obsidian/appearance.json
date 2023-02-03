@@ -1,0 +1,11 @@
+{
+  "accentColor": "#fc86fe",
+  "theme": "system",
+  "monospaceFontFamily": "JetBrains Mono,Microsoft YaHei",
+  "interfaceFontFamily": "Microsoft YaHei",
+  "textFontFamily": "Microsoft YaHei",
+  "nativeMenus": false,
+  "translucency": false,
+  "cssTheme": "Things",
+  "baseFontSize": 16
+}
